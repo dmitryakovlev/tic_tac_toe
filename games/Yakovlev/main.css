@@ -1,0 +1,19 @@
+#play {
+    width: 600px;
+    height: 600px;
+    background: darkgray;
+    margin: 100px auto;
+}
+
+.block {
+    width: 200px;
+    height: 200px;
+    float: left;
+    border: 3px solid white;
+    box-sizing: border-box;
+    color: white;
+    text-transform: uppercase;
+    font-size: 12em;
+    text-align: center;
+    vertical-align: middle;
+}
